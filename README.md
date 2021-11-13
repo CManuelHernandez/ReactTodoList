@@ -1,3 +1,7 @@
+# React List App
+
+Is an app where you can add task to a list mark them as done and remove them. And its all done with REACT.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
